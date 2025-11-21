@@ -1,8 +1,9 @@
-```markdown
+
 # Plant Disease Detection AI 🌿
 
+```markdown
 This repository contains the core AI codebase for a plant leaf disease detection application. The project is written in **Python** using **PyTorch** and is designed to classify leaves as healthy or diseased.  
-
+```
 ---
 
 ## Folder Structure
@@ -92,6 +93,3 @@ python evaluate.py
 This project is open-source for educational purposes.
 
 ---
-
-Bạn có muốn mình làm luôn không?
-```
